@@ -1,0 +1,101 @@
+{
+  "Contact Information": {
+    "Name": "Sagun Pandey",
+    "Email": null,
+    "Phone Number": null,
+    "Website/Portfolio/LinkedIn": "www.linkedin.com/in/sagunpandey",
+    "Github Profile": "www.github.com/sagunpandey"
+  },
+  "Education": [
+    {
+      "Institution Name": "Lamar University",
+      "Degree": "Master of Science : Computer Science",
+      "Graduation Date": "2017"
+    },
+    {
+      "Institution Name": "Tribhuvan University",
+      "Degree": "Bachelor of Engineering : Electronics and Communication Engineering",
+      "Graduation Date": "2013"
+    }
+  ],
+  "Experience": [
+    {
+      "Job Title": "Information Technology Intern (Test Automation Engineer)",
+      "Company Name": "Company Name",
+      "Location": "City , State",
+      "Dates of Employment": "05/2017 to 08/2017",
+      "Description": "Created nicely baked \u2018Test Automation Framework' to provide an execution environment for the automation test scripts."
+    },
+    {
+      "Job Title": "Java Full Stack Developer",
+      "Company Name": "Company Name",
+      "Location": "City , State",
+      "Dates of Employment": "05/2014 to 06/2016",
+      "Description": "Worked on varied aspects of application development including requirement analysis, design, implementation, and testing."
+    },
+    {
+      "Job Title": "Java Developer Intern",
+      "Company Name": "Company Name",
+      "Location": "City , State",
+      "Dates of Employment": "03/2014 to 05/2014",
+      "Description": "Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections."
+    },
+    {
+      "Job Title": "Software Developer Intern",
+      "Company Name": "Company Name",
+      "Location": "City , State",
+      "Dates of Employment": "01/2013 to 10/2013",
+      "Description": "Designed and developed applications using Scrum, an iterative and incremental Agile Software Development methodology."
+    }
+  ],
+  "Skills": [
+    "Java/J2EE",
+    "JavaScript",
+    "Android",
+    "HTML",
+    "CSS",
+    "SQL",
+    "C",
+    "C++",
+    "Spring",
+    "Restful-Web Services",
+    "Hibernate",
+    "AngularJS",
+    "ReactJS",
+    "jQuery",
+    "Bootstrap",
+    "Selenium WebDriver",
+    "Cucumber",
+    "MySQL",
+    "PostgreSQL",
+    "Oracle",
+    "MongoDB",
+    "Gradle",
+    "Maven",
+    "Ant",
+    "Agile/Scrum",
+    "Waterfall",
+    "TDD",
+    "Clean Coding",
+    "Continuous Delivery",
+    "Microservices",
+    "Single Page Application",
+    "REST",
+    "Client/Server",
+    "SVN",
+    "Git",
+    "AWS",
+    "Bower",
+    "Grunt",
+    "Npm",
+    "Node",
+    "JSON",
+    "XML",
+    "Jenkins",
+    "Eclipse",
+    "IntelliJ",
+    "Android Studio",
+    "Linux",
+    "Windows"
+  ]
+}

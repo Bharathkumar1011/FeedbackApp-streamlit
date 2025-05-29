@@ -1,0 +1,55 @@
+{
+  "Contact Information": {
+    "Name": "Aaditya Vijay Hirurkar",
+    "Email": null,
+    "Phone Number": null,
+    "Website/Portfolio/LinkedIn": null,
+    "Github Profile": null
+  },
+  "Education": {
+    "Institution Name": "University of Mumbai",
+    "Degree": "Bachelor of Engineering, Information Technology",
+    "Graduation Date": "2008"
+  },
+  "Experience": [
+    {
+      "Job Title": "Business Analyst Sr. Technical Business Analyst",
+      "Company Name": "Company Name",
+      "Location": null,
+      "Dates of Employment": "Jul 2011 to Dec 2013",
+      "Description": "Requirement Gathering, Requirement Analysis, Release management, Product management, Product implementation role, BRS analysis, Feasibility analysis, Vender management, Client handling, Product Management"
+    },
+    {
+      "Job Title": "Software Implementation Engineer",
+      "Company Name": "Base Information Management Pvt. Ltd.",
+      "Location": null,
+      "Dates of Employment": "Dec 2008 to Jul 2011",
+      "Description": "Implementation of Base E12 WSFA, Customer Relationship Management, Workflow Applications"
+    }
+  ],
+  "Skills": {
+    "Skills": [
+      "C",
+      "C++",
+      "Java",
+      "Oracle",
+      "MS SQL Server",
+      "IBM DB2",
+      "UML",
+      "HTML",
+      "XML",
+      "Windows",
+      "Linux",
+      "J2EE",
+      "Jboss",
+      "Tomcat",
+      "Eclipse",
+      "Rational Rose",
+      "MS Visio",
+      "MS Project",
+      "Oracle SQL Developer",
+      "Crystal Reports",
+      "Java Workflow Editor"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "contactInformation": {
+    "name": "Chu-Hsiang Wu",
+    "email": null,
+    "phoneNumber": null,
+    "websitePortfolioLinkedIn": null,
+    "githubProfile": null
+  },
+  "education": [
+    {
+      "institutionName": "UT Austin",
+      "degree": "Ph.D",
+      "graduationDate": "May 2018",
+      "fieldOfStudy": "PETROLEUM ENGINEERING Scientific Computation"
+    },
+    {
+      "institutionName": "National Taiwan University",
+      "degree": "M.S",
+      "graduationDate": "Jun. 2010",
+      "fieldOfStudy": "MECHANICAL ENGINEERING"
+    },
+    {
+      "institutionName": "National Tsing Hua University",
+      "degree": "B.S",
+      "graduationDate": "Jun. 2008",
+      "fieldOfStudy": "POWER MECHANICAL ENGINEERING"
+    }
+  ],
+  "experience": [
+    {
+      "jobTitle": "ENGINEERING INTERN",
+      "companyName": "Company Name",
+      "location": "State",
+      "datesOfEmployment": "08/2016 - 12/2016",
+      "description": "Developed a solids transport model for predicting cuttings/cavings bed height during a hole-cleaning operation."
+    },
+    {
+      "jobTitle": "ENGINEERING INTERN",
+      "companyName": null,
+      "location": "City, State",
+      "datesOfEmployment": "05/2016 - 08/2016",
+      "description": "Built a simulator to model proppant, diverter, and slurry distribution in a plug-and-perf hydraulic fracturing operation."
+    },
+    {
+      "jobTitle": "PROCESS ENGINEER",
+      "companyName": "Company Name",
+      "location": "City",
+      "datesOfEmployment": "04/2012 - 05/2013",
+      "description": "Improved display yield through statistical modeling, process control, and tool modifications."
+    }
+  ],
+  "skills": [
+    "C++",
+    "Python",
+    "MATLAB",
+    "Git",
+    "Bash",
+    "R",
+    "SQL",
+    "Machine Learning",
+    "Scikit-learn",
+    "Pandas",
+    "Seaborn",
+    "Matplotlib",
+    "TensorFlow",
+    "CFD-DEM",
+    "OpenFOAM",
+    "Fluent",
+    "COMSOL",
+    "LAMMPS",
+    "LIGGGHTS",
+    "CMG",
+    "FracPro",
+    "Saphir",
+    "SEM",
+    "AFM",
+    "Confocal Microscopy",
+    "Regression analysis",
+    "Statistical process control",
+    "Design of experiments"
+  ]
+}

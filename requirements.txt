@@ -1,0 +1,5 @@
+sentence-transformers 
+groq
+langchain-community
+python-dotenv
+streamlit

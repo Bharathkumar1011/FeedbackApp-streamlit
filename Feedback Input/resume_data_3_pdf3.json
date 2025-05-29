@@ -1,0 +1,105 @@
+{
+  "Contact Information": {
+    "Name": null,
+    "Email": null,
+    "Phone Number": null,
+    "Website/Portfolio/LinkedIn": null,
+    "Github Profile": null
+  },
+  "Education": [
+    {
+      "Institution Name": "University of Pennsylvania, School of Eng. and Applied Science",
+      "Degree": "Master of Science : Mech. Eng. & Applied Mechanics",
+      "Graduation Date": "Jun"
+    },
+    {
+      "Institution Name": "Harbin Institute of Technology (HIT)",
+      "Degree": "Bachelor of Science : Mechanical Design and Automation",
+      "Graduation Date": "Aug"
+    }
+  ],
+  "Experience": [
+    {
+      "Job Title": "R&D Product Development Engineer",
+      "Company Name": "Company Name",
+      "Location": "City",
+      "Dates of Employment": "June 2016 to Current",
+      "Description": "Design and build a tail-sitter VTOL(vertical take off and landing) UAV(unmanned aerial vehicle) which takes off and lands vertically and travels horizontally. Main duties include but not limit to aerodynamics modeling, UAV control system design, mechanical manufacturing, simulation and tuning/experiments."
+    },
+    {
+      "Job Title": "Research assistant",
+      "Company Name": "Company Name",
+      "Location": "City",
+      "Dates of Employment": "May 2015 to February 2016",
+      "Description": "Research assistant for Wharton School environment economics projects on Europe Emission Trading System (EU ETC). Main duties include large scale data collecting, cleaning, merging, database construction and data analysis, etc."
+    },
+    {
+      "Job Title": "Mechanical Technician",
+      "Company Name": "Company Name",
+      "Location": "City",
+      "Dates of Employment": "August 2013 to September 2013",
+      "Description": "Check, report on reducer components, automobile chassis producing, processing and assembly line. Trained in mechanical manufacturing fundamentals in industrial production of automobiles."
+    }
+  ],
+  "Skills": [
+    "3D",
+    "assembly language",
+    "AutoCAD",
+    "automobiles",
+    "C",
+    "C language",
+    "CAD",
+    "Chinese",
+    "Clustering",
+    "com",
+    "controller",
+    "data analysis",
+    "Database",
+    "database software",
+    "designing",
+    "economics",
+    "Editing",
+    "embedded system",
+    "English",
+    "Experiments",
+    "GUI",
+    "graphic",
+    "Java",
+    "Laser",
+    "Lathe",
+    "Machine Learning",
+    "MATLAB",
+    "Mechanical",
+    "Mechanical Design",
+    "Mechanical Engineering",
+    "Excel",
+    "Windows 7",
+    "Word",
+    "Mill",
+    "Modeling",
+    "Networks",
+    "Neural",
+    "Operating Systems",
+    "OS",
+    "painting",
+    "camera",
+    "PLC",
+    "predict",
+    "producing",
+    "Programming",
+    "Python",
+    "Rendering",
+    "Research",
+    "Robotics",
+    "Simulation",
+    "Solidworks",
+    "SPSS",
+    "SQL",
+    "SQL Server",
+    "STATA",
+    "Statistics",
+    "system design",
+    "Trading System",
+    "vision"
+  ]
+}
